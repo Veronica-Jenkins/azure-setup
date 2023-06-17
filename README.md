@@ -1,29 +1,15 @@
 <h1>Setting up an Azure account & creating a Resource Group</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial will demonstrate how to setup an azure account and create a resource group.<br />
 
 
-
+<br/>
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+- Microsoft Azure Portal
 
-<h2>Operating Systems Used </h2>
-
-- Windows Server 2022
-- Windows 10 (21H2)
-
-<h2>High-Level Deployment and Configuration Steps</h2>
-
-- Step 1
-- Step 2
-- Step 3
-- Step 4
-
-<h2>Deployment and Configuration Steps</h2>
-
+<br/>
+<h2>Let's Get Started With Microsoft Azure!</h2>
+<br/>
 <p>
 <img src="https://i.imgur.com/WpZe09m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
