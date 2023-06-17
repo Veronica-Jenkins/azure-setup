@@ -13,23 +13,38 @@ This tutorial will demonstrate how to setup an azure account and create a resour
 <p>
 <img src="https://i.imgur.com/WpZe09m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
+<p>
+Go to www.azure.microsoft.com to create an azure account.
+</p>
+<br />
 <p>
 <img src="https://i.imgur.com/9yjPS8B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
+<p>
+From the azure portal type <b><i>Resource Groups</i></b> in the search bar at the top of the page. Click the <b><i>create resource group</i></b> button.
+</p>
+<br />
 <p>
 <img src="https://i.imgur.com/uOpU7RB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
+<p>
+Give the resource group a name. Pick a region where the resource group will be created. **NOTE: Some regions may not be available in Azure. Click on <b>Review + Create</b>
+</p>
+<br />
 <p>
 <img src="https://i.imgur.com/nEsStew.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
+<p>
+Once the <b><i>Validation passed</i></b> banner is displayed, click on <b>Create</b>
+</p>
+<br />
 <p>
 <img src="https://i.imgur.com/n60bli2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
+<p>
+Congrats! The resource group is created.
+</p>
+<br />
 <p>
 <img src="https://i.imgur.com/FDTvlD0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
