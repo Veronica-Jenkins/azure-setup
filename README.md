@@ -49,46 +49,27 @@ Congrats! The resource group is created.
 <img src="https://i.imgur.com/FDTvlD0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>**VERY IMPORTANT!!</b>
-   
-Remember to delete resource groups when finished with a lab/project - your wallet will thank you! Running resource groups with complex 
-  
-  and vms will run up bill and eat up all the free credits.
-Click on RG – click delete resource group / type in the name then hit delete
-Check to make sure the RG is deleted.
+<b>**VERY IMPORTANT!!**</b>
 
+Remember to delete resource groups when finished with a lab/project - your wallet will thank you! Running resource groups over a period of time will accumulate a large subscription bill. 
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/ppKJgXq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
 <p>
 <img src="https://i.imgur.com/fWvrl1w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click on the resource group --> go to <b><i>Delete Resource Group</i></b>. Copy the group’s name and paste it in the text field below then hit <b>Delete</b>. A popup will appear confirming to delete this group. Hit <b>Delete</b>. 
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/rlhQeFi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
-
-
-
-
-
-
-
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>   
+Check to make sure the resource group is deleted. This concludes the turorial.
 </p>
 <br />
+
