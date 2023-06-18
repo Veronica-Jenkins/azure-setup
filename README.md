@@ -52,6 +52,8 @@ Congrats! The resource group is created.
 <b>**VERY IMPORTANT!!**</b>
 
 Remember to delete resource groups when finished with a lab/project - your wallet will thank you! Running resource groups over a period of time will accumulate a large subscription bill. 
+
+Click on the resource group --> go to <b><i>Delete Resource Group</i></b>.
 </p>
 <br />
 <p>
@@ -62,7 +64,7 @@ Remember to delete resource groups when finished with a lab/project - your walle
 <img src="https://i.imgur.com/fWvrl1w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click on the resource group --> go to <b><i>Delete Resource Group</i></b>. Copy the group’s name and paste it in the text field below then hit <b>Delete</b>. A popup will appear confirming to delete this group. Hit <b>Delete</b>. 
+Copy the group’s name and paste it in the text field below then hit <b>Delete</b>. A popup will appear confirming to delete this group. Hit <b>Delete</b>. 
 </p>
 <br />
 <p>
