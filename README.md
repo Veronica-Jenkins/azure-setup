@@ -71,7 +71,7 @@ Copy the group’s name and paste it in the text field below then hit <b>Delete<
 <img src="https://i.imgur.com/rlhQeFi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>   
-Check to make sure the resource group is deleted. This concludes the turorial.
+Check to make sure the resource group is deleted. This concludes the tutorial.
 </p>
 <br />
 
