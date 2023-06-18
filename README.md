@@ -3,7 +3,7 @@ This tutorial will demonstrate how to setup an azure account and create a resour
 
 
 <br/>
-<h2>Environments and Technologies Used</h2>
+<h2>Environments & Technologies Used</h2>
 
 - Microsoft Azure Portal
 
